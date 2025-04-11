@@ -1,7 +1,8 @@
-.image-list {
+.image-list{
     columns: 6 200px;
     column-gap: 10px;
 }
+
 
 img{
     width: 100%;
